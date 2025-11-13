@@ -1,6 +1,6 @@
 # Cola-Automat
 ## short Description
-A python based simulator what simulats a cola-automat with payments, product managing and demand pediction.
+A python based simulator what simulats a cola-automat with payments, product managing and demand prediction.
 ## Description
 ### Objects
 #### Cola-automat
